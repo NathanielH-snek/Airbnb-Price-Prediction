@@ -64,7 +64,7 @@ This project aims to create a predictive model for Airbnb listing prices using p
 ## 📦 Installation & Usage
 
 ```bash
-git clone https://github.com/yourname/airbnb-price-prediction.git
+git clone https://github.com/NathanielH-snek/Airbnb-Price-Prediction.git
 cd airbnb-price-prediction
 pip install -r requirements.txt
 jupyter notebook final-project-complete.ipynb
